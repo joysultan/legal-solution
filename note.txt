@@ -459,4 +459,5 @@
 
 
 
-right arrow: <i class="fa-solid fa-arrow-right"></i>
+right arrow-thin: <i class="fa-solid fa-arrow-right"></i>
+right:arrow-bold: <i class="fa-solid fa-arrow-right"></i>
